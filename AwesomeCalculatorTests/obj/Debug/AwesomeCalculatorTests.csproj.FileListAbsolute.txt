@@ -1,0 +1,13 @@
+F:\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculatorTests.dll
+F:\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculatorTests.pdb
+F:\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.exe
+F:\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.dll
+F:\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.pdb
+F:\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\AwesomeCalculator.exe.config
+F:\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.pdb
+F:\AwesomeCalculator\AwesomeCalculatorTests\bin\Debug\nunit.framework.xml
+F:\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.csprojAssemblyReference.cache
+F:\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.csproj.CoreCompileInputs.cache
+F:\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.csproj.CopyComplete
+F:\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.dll
+F:\AwesomeCalculator\AwesomeCalculatorTests\obj\Debug\AwesomeCalculatorTests.pdb
